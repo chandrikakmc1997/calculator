@@ -1,9 +1,9 @@
 function mul()
 {
-var a=document.getElementbyId("firstnO").value
-var b=document.getelEmentbyId("secondnO").value
+var a=document.getElementbyId("firstno").value
+var b=document.getelEmentbyId("secondno").value
 var result
-result=a /* b
+result=a * b
 document.getelementbyid("result").value=result
 }
 
