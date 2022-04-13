@@ -1,4 +1,4 @@
-function div() {
+function division() {
 var a =documet.getElementById("firstno").value
 var b =document.getElementById("secondno").value
 var result 
