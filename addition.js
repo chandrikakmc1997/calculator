@@ -1,10 +1,10 @@
 function add()
 {
-var a=document.getelementbyid("first number").value
-var b=document.getelementbyid("second number").value
+var a=document.getelementById("firstno").value
+var b=document.getelementById("secondno").value
 var result
 result=a + b
-document.getelementbyid("result").value=result
+document.getelementById("result").value=result
 
 }
 
