@@ -1,8 +1,8 @@
 function add()
 {
-var a=(document.getElementById("firstno").value)
-var b=(document.getElementById("secondno").value)
-var result=parseInt(a) + parseInt(b)
+var a=parseInt(document.getElementById("firstno").value)
+var b=parseInt(document.getElementById("secondno").value)
+var result
 result=a + b
 document.getElementById("result").value=result
 }
