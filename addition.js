@@ -1,8 +1,9 @@
 function add()
 {
-var a=document.getlementById("firstno").value
-var b=document.getelementById("secondno").value
+var a=document.getElementById("firstno").value
+var b=document.getElementById("secondno").value
 var result
 result=a + b
-document.getelementById("result").value=result}
+document.getElementById("result").value=result
+}
 
